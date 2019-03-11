@@ -1,0 +1,11 @@
+# Credentials format
+
+## Algorithmia
+
+File: `algorithmia.json`
+
+```
+{
+  "apiKey": "simgP+rXX1Qp7S96IFrj7gbtimN1"
+}
+```
