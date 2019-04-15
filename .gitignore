@@ -64,5 +64,5 @@ typings/
 credentials/*.json
 
 content.json
-
+content/*.jpg
 content/*.png
